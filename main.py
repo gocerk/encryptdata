@@ -24,7 +24,6 @@ class main(QMainWindow) :
         self.ui.textEdit_2.setText(str(self.token))
     
     def pushclick(self) : 
-        
         f = Fernet(self.key)
         dec = f.decrypt(self.token)
         decode = dec.decode()
