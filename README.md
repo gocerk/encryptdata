@@ -1,6 +1,6 @@
 # Data Encrypte and Decrypte
 This tool helps you for encrypt or decrypt the data
-# Used Libraries 
+# Libraries Used
 1- PyQt5
 
 2- Sys
